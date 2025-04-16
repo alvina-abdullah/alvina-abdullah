@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m alvina-abdullah </h1>
+<h1 classname="text-center"> 👋 Hi, I’m alvina-abdullah </h1>
 - 🌱 I’m currently working on Generative AI & Next.js
 
 
