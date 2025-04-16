@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alvina-abdullah
+<h1> 👋 Hi, I’m alvina-abdullah </h1>
 - 🌱 I’m currently working on Generative AI & Next.js
 
 
