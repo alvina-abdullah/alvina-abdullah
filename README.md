@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @alvina-abdullah
+- 🌱 I’m currently working on Generative AI & Next.js
+
+
+<!---
+alvina-abdullah/alvina-abdullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
