@@ -1,7 +1,6 @@
 <h1 classname="text-center"> 👋 Hi, I’m alvina-abdullah </h1>
   🙋‍♂️ About Me
 
-- 🎓 UnderGraduation in BS-Commerce,
 - 🌱 I’m currently learning **Generative AI & Next.js.**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **alvinaabdullah16@gmail.com**
