@@ -1,5 +1,5 @@
 <h1 classname="text-center"> 👋 Hi, I’m alvina-abdullah </h1>
-<br>
+
 <h2>Turning ideas into smooth, intelligent web experiences • Frontend Developer & AI Explorer</h2>
 ## 🙋‍♂️ About Me
 
