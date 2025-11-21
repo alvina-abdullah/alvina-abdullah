@@ -1,7 +1,8 @@
 <h1 classname="text-center"> 👋 Hi, I’m alvina-abdullah </h1>
 
 <h2>Turning ideas into smooth, intelligent web experiences • Frontend Developer & AI Explorer</h2>
-##🙋‍♂️ About Me
+
+## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Generative AI & Next.js.**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
